@@ -16,7 +16,8 @@ I'm currently diving into the world of software development and data analytics. 
   -   [Project Repo](https://github.com/dahliasukaik/Game-Development.git)
 
 - **Data Analytics**
-  - *Project details coming soon!*
+  - My repository hosts a detailed data analytics project on immunotherapy outcomes, offering insights into treatment efficacy and patient responses, alongside an in-depth analysis of vertebral column fractures, utilizing statistical models to understand risk factors and inform prevention strategies.
+  - [Project Repo](https://github.com/dahliasukaik/Data-Analytics.git)
 
 ### 🤳 Connect with me:
 
