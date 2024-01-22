@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dahlia! <br/> Learning: Software development, Cybersecurity and Data Analytics 
+<h1>Hi, I'm Dahlia! <br/> Learning: Software development and Data Analytics 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
