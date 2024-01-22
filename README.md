@@ -1,18 +1,24 @@
-<h1>Hi, I'm Dahlia! <br/> Learning: Software development and Data Analytics 
+# Hi, I'm Dahlia! 
+### Learning: Software Development and Data Analytics 
 
-- <b>Data Structures and Algorithms Practice (C++)</b>
-- [Link to Repository: Comparison Sorting Algorithims] (https://github.com/dahliasukaik/Comparison-Algorithms-.git)
-- <b>Full Stack Web App (Django and Flask)</b>
-- 
-**[Link to Repository:](https://github.com/dahliasukaik/CPSC-362-Group-6.git)
-  
-- <b>Python Game Development</b>
+I'm currently diving into the world of software development and data analytics. Here are some of the projects I've been working on:
+
+### Projects
+
+- **Data Structures and Algorithms Practice (C++)**
+  - [Comparison Sorting Algorithms Repository](https://github.com/dahliasukaik/Comparison-Algorithms-.git)
   - 
 
-- <b>Data Analytics</b>
-  - 
+- **Full Stack Web App (Django and Flask)**
+  - [CPSC 362 Group 6 Repository](https://github.com/dahliasukaik/CPSC-362-Group-6.git)
 
+- **Python Game Development**
+  - *Project details coming soon!*
 
+- **Data Analytics**
+  - *Project details coming soon!*
 
-<h2> 🤳 Connect with me:</h2>
-[Linkedln]: https://www.linkedin.com/in/dahliasukaik928
+### 🤳 Connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/dahliasukaik928)
+
