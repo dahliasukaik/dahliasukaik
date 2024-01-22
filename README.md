@@ -1,14 +1,12 @@
 <h1>Hi, I'm Dahlia! <br/> Learning: Software development and Data Analytics 
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
 - <b>Data Structures and Algorithms Practice (C++)</b>
-  - 
+  - **[Link to Repository: Comparison Sorting Algorithims](https://github.com/csuf-cpsc335/homework1-dahliasukaik.git)
 - <b>Full Stack Web App (Django and Flask)</b>
-
-**[Link Text](https://github.com/dahliasukaik/CPSC-362-Group-6.git)
+- 
+**[Link to Repository:](https://github.com/dahliasukaik/CPSC-362-Group-6.git)
   
-- <b>Python</b>
+- <b>Python Game Development</b>
   - 
 
 - <b>Data Analytics</b>
