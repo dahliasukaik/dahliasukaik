@@ -6,7 +6,7 @@ I'm currently diving into the world of software development and data analytics. 
 ### Projects
 
 - **Data Structures and Algorithms Practice (C++)**
-  - [Comparison Sorting Algorithms Repository](https://github.com/dahliasukaik/Comparison-Algorithms-.git)
+  - [Algorithms Repository](https://github.com/dahliasukaik/Algorithims-.git)
   - 
 
 - **Full Stack Web App (Django and Flask)**
