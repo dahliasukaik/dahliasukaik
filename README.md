@@ -13,7 +13,7 @@ I'm currently diving into the world of software development and data analytics. 
 
 - **Python Game Development**
   -I implemented classic games Space Invaders and Blackjack, honing my programming skills in game logic, graphics, and user interaction.
-  [Project Repo](https://github.com/dahliasukaik/Game-Development.git)
+  - [Project Repo](https://github.com/dahliasukaik/Game-Development.git)
 
 - **Data Analytics**
   - *Project details coming soon!*
