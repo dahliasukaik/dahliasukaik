@@ -22,7 +22,7 @@ I'm currently diving into the world of software development and data analytics. 
  
 - **Hackathon**
   - Designed and developed an innovative sustainability-focused Android mobile app using React Native, leveraging autonomous vehicle technology for efficient organic waste collection and composting, demonstrating strong skills in environmental tech, project management, and cross-functional collaboration.
-  - [Project Repo]([https://github.com/dahliasukaik/Data-Analytics.git](https://github.com/srehome/green-gold)
+  - [Project Repo](https://github.com/srehome/green-gold)
 
 ### 🤳 Connect with me:
 
